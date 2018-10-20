@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2018-10-15T10:32:06-00:00</lastmod>
+<lastmod>2018-10-20T13:17:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2018-10-15T10:32:06-00:00</lastmod>
+<lastmod>2018-10-20T13:17:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2018-10-15T10:32:06-00:00</lastmod>
+<lastmod>2018-10-20T13:17:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2018-10-15T10:32:06-00:00</lastmod>
+<lastmod>2018-10-20T13:17:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -39,29 +39,57 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./2018-Fall-Project-Blog.html</loc>
+<loc>./2018-Fall-Project-Blog-w3.html</loc>
+<lastmod>2018-09-24T11:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./2018-Fall-Project-Blog-w2.html</loc>
+<lastmod>2018-09-17T11:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./2018-Fall-Project-Blog-w1.html</loc>
 <lastmod>2018-09-10T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<loc>./2018-Fall-Project-Blog.html</loc>
+<lastmod>2018-07-18T11:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./category/misc.html</loc>
-<lastmod>2018-09-10T11:00:00+08:06</lastmod>
+<lastmod>2018-09-24T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/2018fall.html</loc>
-<lastmod>2018-09-10T11:00:00+08:06</lastmod>
+<lastmod>2018-09-24T11:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./author/40623239.html</loc>
+<lastmod>2018-09-24T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/nfumde.html</loc>
-<lastmod>2018-09-10T11:00:00+08:06</lastmod>
+<lastmod>2018-07-18T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

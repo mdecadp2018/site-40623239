@@ -38,6 +38,30 @@
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
+<v t="leo.20181020130504.1"><vh>week1</vh>
+<v t="leo.20181020130504.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181020130504.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181020130504.4" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181020130504.5"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181020130616.1"><vh>week2</vh>
+<v t="leo.20181020130616.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181020130616.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181020130616.4" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181020130616.5"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181020131954.1" a="E"><vh>week3</vh>
+<v t="leo.20181020131954.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181020131954.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181020131954.4" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181020131954.5"><vh>內容</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -128,6 +152,7 @@ vertical: body pane on the botton</t>
 
 ### 虎科大機械設計工程系
 
+### 40623239許登貴個人投影片
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
@@ -325,6 +350,99 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181020130504.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181020130504.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181020130504.3"># Week1
+</t>
+<t tx="leo.20181020130504.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181020130504.5">
+</t>
+<t tx="leo.20181020130616.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181020130616.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181020130616.3"># Week2
+</t>
+<t tx="leo.20181020130616.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181020130616.5">
+</t>
+<t tx="leo.20181020131954.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181020131954.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181020131954.3"># Week3
+</t>
+<t tx="leo.20181020131954.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181020131954.5">
 </t>
 </tnodes>
 </leo_file>
