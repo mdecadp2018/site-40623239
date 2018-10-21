@@ -18,7 +18,13 @@
 &lt;h2&gt;課程影片：&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ax2ZuPm3YXc"&gt;Youtube-Week1-1&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=sD9slKyFNao"&gt;Youtube-Week1-2&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;課程說明：&lt;/h2&gt;
+&lt;p&gt;課程說明：1.建立新的倉儲: 40623239.github.io&lt;/p&gt;
+&lt;p&gt;2.git clone  https://github.com/mdecourse/2018fall&lt;/p&gt;
+&lt;p&gt;3.git clone https://github.com/40623239/40623239.github.io&lt;/p&gt;
+&lt;p&gt;4.從2018fall資料夾複製裡面的檔案，排除.git和README.me，並貼到自己的資料夾內&lt;/p&gt;
+&lt;p&gt;5.&amp;gt;git add .(增加) &amp;gt; git status(檢查狀態) &amp;gt; git commit -m "名稱"( 提交) &amp;gt; git push (推送)&lt;/p&gt;
+&lt;p&gt;6.開啟python wsgi.py ，進入近端(localhost:8443)，更改標題名稱40623239&lt;/p&gt;
+&lt;h2&gt;期中作業操作 &amp;lt;&amp;lt; Previous Next &amp;gt;&amp;gt; homework-week2&lt;/h2&gt;
 &lt;h2&gt;自我評量：70分&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623239/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-07-18T11:00:00+08:00</published><updated>2018-07-18T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-07-18:/site-40623239/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
