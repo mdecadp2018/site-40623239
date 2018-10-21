@@ -46,7 +46,7 @@
 <v t="leo.20181020130504.5"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181020130616.1"><vh>week2</vh>
+<v t="leo.20181020130616.1" a="E"><vh>week2</vh>
 <v t="leo.20181020130616.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181020130616.3"><vh>內容</vh></v>
 </v>
@@ -369,7 +369,7 @@ make.start()
 </t>
 <t tx="leo.20181020130504.3"># Week1
 
-中秋節放假
+
 </t>
 <t tx="leo.20181020130504.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -382,7 +382,19 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181020130504.5">
+<t tx="leo.20181020130504.5">1.建立新的倉儲: 40623239.github.io
+
+2.git clone  https://github.com/mdecourse/2018fall
+
+3.git clone https://github.com/40623239/40623239.github.io
+
+4.從2018fall資料夾複製裡面的檔案，排除.git和README.me，並貼到自己的資料夾內
+
+5.&gt;git add .(增加) &gt; git status(檢查狀態) &gt; git commit -m "名稱"( 提交) &gt; git push (推送)
+
+6.開啟python wsgi.py ，進入近端(localhost:8443)，更改標題名稱40623239
+
+
 </t>
 <t tx="leo.20181020130616.1">&lt;section&gt;
 @others
@@ -413,7 +425,13 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181020130616.5">
+<t tx="leo.20181020130616.5">1.到mde.tw &gt; i &gt;week2&gt;領取個人倉儲作業 (在mdecadp2018下的site-40623239)
+
+2.在site-40623225的 settings &gt; Branches &gt; 把branches改為gh-pages
+
+3.閱讀及練習OnShape ，更新網站內容
+
+
 </t>
 <t tx="leo.20181020131954.1">&lt;section&gt;
 @others
@@ -444,7 +462,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181020131954.5">
+<t tx="leo.20181020131954.5">中秋節放假
 </t>
 </tnodes>
 </leo_file>
