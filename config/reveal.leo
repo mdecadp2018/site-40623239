@@ -38,7 +38,7 @@
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20181020130504.1"><vh>week1</vh>
+<v t="leo.20181020130504.1" a="E"><vh>week1</vh>
 <v t="leo.20181020130504.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181020130504.3"><vh>內容</vh></v>
 </v>
@@ -368,6 +368,8 @@ make.start()
 						
 </t>
 <t tx="leo.20181020130504.3"># Week1
+
+中秋節放假
 </t>
 <t tx="leo.20181020130504.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
