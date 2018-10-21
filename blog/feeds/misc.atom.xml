@@ -24,7 +24,8 @@
 &lt;h2&gt;課程影片：&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ax2ZuPm3YXc"&gt;Youtube-Week1-1&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=sD9slKyFNao"&gt;Youtube-Week1-2&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;課程說明：1.建立新的倉儲: 40623239.github.io&lt;/p&gt;
+&lt;p&gt;課程說明：&lt;/p&gt;
+&lt;p&gt;1.建立新的倉儲: 40623239.github.io&lt;/p&gt;
 &lt;p&gt;2.git clone  https://github.com/mdecourse/2018fall&lt;/p&gt;
 &lt;p&gt;3.git clone https://github.com/40623239/40623239.github.io&lt;/p&gt;
 &lt;p&gt;4.從2018fall資料夾複製裡面的檔案，排除.git和README.me，並貼到自己的資料夾內&lt;/p&gt;
