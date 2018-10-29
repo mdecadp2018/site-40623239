@@ -62,6 +62,46 @@
 <v t="leo.20181020131954.5"><vh>內容</vh></v>
 </v>
 </v>
+<v t="leo.20181029112245.1" a="E"><vh>week4</vh>
+<v t="leo.20181029112245.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181029112245.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181029112245.4" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181029112245.5"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181029112250.1" a="E"><vh>week5</vh>
+<v t="leo.20181029112250.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181029112250.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181029112250.4" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181029112250.5"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181029112336.1" a="E"><vh>week6</vh>
+<v t="leo.20181029112336.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181029112336.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181029112336.4" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181029112336.5"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181029112337.1" a="E"><vh>week7</vh>
+<v t="leo.20181029112337.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181029112337.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181029112337.4" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181029112337.5"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181029112339.1" a="E"><vh>week8</vh>
+<v t="leo.20181029112339.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181029112339.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181029112339.4" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181029112339.5"><vh>內容</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -394,7 +434,7 @@ make.start()
 
 6.開啟python wsgi.py ，進入近端(localhost:8443)，更改標題名稱40623239
 
-
+心得:半年沒上電腦輔助設計了，一開始有些許生疏，但其實上課內容和一年級時差不多，所以要跟上不難，期許未來能夠在課程中吸取更多資訊，並運用再生活、課業上。
 </t>
 <t tx="leo.20181020130616.1">&lt;section&gt;
 @others
@@ -463,6 +503,168 @@ make.start()
 						
 </t>
 <t tx="leo.20181020131954.5">中秋節放假
+</t>
+<t tx="leo.20181029112245.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181029112245.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181029112245.3"># Week4
+</t>
+<t tx="leo.20181029112245.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181029112245.5">
+</t>
+<t tx="leo.20181029112250.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181029112250.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181029112250.3"># Week5
+</t>
+<t tx="leo.20181029112250.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181029112250.5"></t>
+<t tx="leo.20181029112336.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181029112336.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181029112336.3"># Week6
+</t>
+<t tx="leo.20181029112336.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181029112336.5">1.複習1~5週內容
+
+2.學習如何處理網誌錯誤的問題
+
+3.安裝新版p37
+
+4.leo 不能亂刪除任何一個符號
+
+心得:看完1~5週上課內容，對課程更熟悉了。上課中網站發生了問題，另大家無法作業，若未來再次發生，是值得探討的問題之一。
+</t>
+<t tx="leo.20181029112337.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181029112337.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181029112337.3"># Week7
+</t>
+<t tx="leo.20181029112337.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181029112337.5">
+</t>
+<t tx="leo.20181029112339.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181029112339.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181029112339.3"># Week8
+</t>
+<t tx="leo.20181029112339.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181029112339.5">
 </t>
 </tnodes>
 </leo_file>
