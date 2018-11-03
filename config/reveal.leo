@@ -94,14 +94,6 @@
 <v t="leo.20181029112337.5"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181029112339.1" a="E"><vh>week8</vh>
-<v t="leo.20181029112339.2" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181029112339.3"><vh>內容</vh></v>
-</v>
-<v t="leo.20181029112339.4" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181029112339.5"><vh>內容</vh></v>
-</v>
-</v>
 </v>
 </v>
 </v>
@@ -422,14 +414,14 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181020130504.5">1.建立新的倉儲: 40623239.github.io
-2.git clone  https://github.com/mdecourse/2018fall
-3.git clone https://github.com/40623239/40623239.github.io
-4.從2018fall資料夾複製裡面的檔案，排除.git和README.me，並貼到自己的資料夾內
-5.&gt;git add .(增加) &gt; git status(檢查狀態) &gt; git commit -m "名稱"( 提交) &gt; git push (推送)
-6.開啟python wsgi.py ，進入近端(localhost:8443)，更改標題名稱40623239
+<t tx="leo.20181020130504.5">* 1.建立新的倉儲: 40623239.github.io
+* 2.git clone  https://github.com/mdecourse/2018fall
+* 3.git clone https://github.com/40623239/40623239.github.io
+* 4.從2018fall資料夾複製裡面的檔案，排除.git和README.me，並貼到自己的資料夾內
+* 5.&gt;git add .(增加) &gt; git status(檢查狀態) &gt; git commit -m "名稱"( 提交) &gt; git push (推送)
+* 6.開啟python wsgi.py ，進入近端(localhost:8443)，更改標題名稱40623239
 
-心得:半年沒上電腦輔助設計了，一開始有些許生疏，但其實上課內容和一年級時差不多，所以要跟上不難，期許未來能夠在課程中吸取更多資訊，並運用再生活、課業上。
+* 心得:半年沒上電腦輔助設計了，一開始有些許生疏，但其實上課內容和一年級時差不多，所以要跟上不難，期許未來能夠在課程中吸取更多資訊，並運用再生活、課業上。
 </t>
 <t tx="leo.20181020130616.1">&lt;section&gt;
 @others
@@ -460,11 +452,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181020130616.5">1.到mde.tw &gt; i &gt;week2&gt;領取個人倉儲作業 (在mdecadp2018下的site-40623239)
+<t tx="leo.20181020130616.5">* 1.到mde.tw &gt; i &gt;week2&gt;領取個人倉儲作業 (在mdecadp2018下的site-40623239)
 
-2.在site-40623225的 settings &gt; Branches &gt; 把branches改為gh-pages
+* 2.在site-40623225的 settings &gt; Branches &gt; 把branches改為gh-pages
 
-3.閱讀及練習OnShape ，更新網站內容
+* 3.閱讀及練習OnShape ，更新網站內容
 
 
 </t>
@@ -528,7 +520,21 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181029112245.5">
+<t tx="leo.20181029112245.5">* 練習繪製onshape homework（1~2）
+
+* 1.拉伸--extrude
+
+* 2.旋轉--revolve
+
+* 3.對稱--symmetric
+
+* 4.陣列--pattern
+
+* 5.斷面混層--loft
+
+* 6.掃掠--sweep
+
+* 7.薄殼--shell
 </t>
 <t tx="leo.20181029112250.1">&lt;section&gt;
 @others
@@ -559,7 +565,21 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181029112250.5"></t>
+<t tx="leo.20181029112250.5">* 練習繪製onshape（3〜4）
+
+* 1.消除圓以內的材料--boolean
+
+* 2.分割實體面--split
+
+* 3.修改圓角 - 修改圓角
+
+* 4.螺旋線--helix
+
+* 5.拔模--draft
+
+* 6.偏移表面 - 替換面
+
+* 7.鏡射--mirror</t>
 <t tx="leo.20181029112336.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -628,38 +648,6 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181029112337.5">
-</t>
-<t tx="leo.20181029112339.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181029112339.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181029112339.3"># Week8
-</t>
-<t tx="leo.20181029112339.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181029112339.5">
-</t>
+<t tx="leo.20181029112337.5">* 練習繪製onshape homework（5~6）</t>
 </tnodes>
 </leo_file>
