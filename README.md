@@ -1,9 +1,7 @@
 # 2018fall
 
-倉儲:https://github.com/mdecadp2018/site-40623239
+cpg8網站:http://mde.tw/2018fall/content/index.html
 
-網站:https://mdecadp2018.github.io/site-40623239
+cpg8網誌:http://mde.tw/2018fall/blog/index.html
 
-網誌:https://mdecadp2018.github.io/site-40623239/blog
-
-投影片:https://mdecadp2018.github.io/site-40623239/reveal/
+cpg8投影片:http://mde.tw/2018fall/reveal/index.html#/
