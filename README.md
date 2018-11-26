@@ -4,6 +4,4 @@
 
 期末分組倉儲: https://github.com/mdecadp2018/finalproject-bg7
 
-期中個人倉儲: https://github.com/mdecadp2018/site-40623239
-
 網站: https://mdecadp2018.github.io/site-40623239/content/index.html
